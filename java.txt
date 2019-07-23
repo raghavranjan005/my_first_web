@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+     <head></head>
+  <body>
+     <script type="text/javascript">
+        var name="raghav";
+       var age="21";
+    var message="Hi,my name is "+ name + "and I am" +age +  "years old";
+     alert(message)
+    </script>
+     </body>
+   </html> 
